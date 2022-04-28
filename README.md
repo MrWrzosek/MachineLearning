@@ -1,3 +1,3 @@
 # MachineLearning
 
-## Some implementations and some sklearn benchmarks
+## Some of my implementations and some sklearn benchmarks
